@@ -48,17 +48,17 @@ run_eval_tests()
 
 # Project Structure
 
-```multi_agent_system_updated/
-├── agents/
-│   ├── planner_agent.py
-│   ├── launch_agent.py
-│   ├── weather_agent.py
-│   └── summary_agent.py
-├── eval/
-│   └── eval_runner.py
-├── main.py
-├── run_eval_tests.py
-└── .env
+```
+ agents/
+   ├── planner_agent.py
+   ├── launch_agent.py
+   ├── weather_agent.py
+   └── summary_agent.py
+eval/
+   └── eval_runner.py
+main.py
+run_eval_tests.py
+.env
 ```
 
 # Setup & API Keys
