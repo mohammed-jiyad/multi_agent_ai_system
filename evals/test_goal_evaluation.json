@@ -1,0 +1,7 @@
+{
+  "goal": "Check if the next SpaceX launch might be delayed due to weather.",
+  "expected_agents": ["launch_agent", "weather_agent", "summary_agent"],
+  "expected_result_structure": {
+    "summary": "string"
+  }
+}
